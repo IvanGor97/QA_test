@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: black; 
+}
+.intro {
+width: 100%;
+height: 100vh;
+
+background:
+url("../Дз№2/12.jpg") center no-repeat;
+background-size: cover;
+}
